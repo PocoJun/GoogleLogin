@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_result" type="id" />
+    <item name="tv_profile" type="id" />
+    <item name="iv_profile" type="id" />
+</resources>
